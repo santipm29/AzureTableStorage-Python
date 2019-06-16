@@ -1,0 +1,5 @@
+{
+  "connectionString":"CONNECTION_STRING",
+  "nameTable":"NAME_TABLE",
+  "partitionKey":"PARTITION_KEY"
+}
